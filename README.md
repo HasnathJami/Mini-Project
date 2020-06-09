@@ -1,2 +1,4 @@
-# Mini-Project
-Mini projects using C
+ Mini-Project
+ =============
+ 
+Mini projects using C languages
