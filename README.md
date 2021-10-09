@@ -1,4 +1,4 @@
  Mini-Project
  =============
  
-Mini projects using C language
+Mini projects using C and C++ language
